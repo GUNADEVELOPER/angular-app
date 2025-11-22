@@ -1,0 +1,8 @@
+{
+  "name": "angular-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo "Angular dev server placeholder"",
+    "build": "echo "Angular build placeholder""
+  }
+}
